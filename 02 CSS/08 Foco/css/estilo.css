@@ -1,0 +1,12 @@
+body{
+	font-family:"Trebuchet MS, Sans-Serif";
+	font-size:12px;
+	margin: 50px;
+}
+
+input:focus{	
+	border-style: dotted;
+	background: #FFFFCC;
+	border-width: thin;
+	border-color: #FF0000;
+}
